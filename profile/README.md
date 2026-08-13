@@ -6,13 +6,14 @@ FBDL licences cover a range of proprietary software scenarios, from traditional 
 
 Whether you want to distribute a closed-source utility, provide source-code transparency without allowing forks, or grant confidential source access to customers, the FBDL family aims to provide a clear, consistent, and reusable licensing framework.
 
-| License | Description                | Source        | Modify   | Redistribute Mods     | Commercial | Status |
-| :------ | :------------------------- | :------------ | :------- | :-------------------- | :--------- | :----- |
-| FBDL    | Freeware                   | No            | No       | No                    | Yes        | Done   |
-| FBDL-SC | Confidential source access | User only     | Internal | No                    | Yes        | Done   |
-| FBDL-RO | Public source, read only   | Yes           | No       | No                    | Yes        | Todo   |
-| FBDL-NC | Non-commercial             | Optional      | No       | No                    | No         | Todo   |
-| FBDL-SR | Reciprocal source          | Yes           | Yes      | Yes (source required) | Yes        | Todo   |
+| License | Description         | Public Source    | Modify  | Derivatives       | Commercial | Status |
+| :------ | :------------------ | :--------------- | :------ | :---------------- | :--------- | :----- |
+| FBDL    | Freeware            | ❌                | ❌       | ❌                 | ✅        | Done   |
+| FBDL-CS | Confidential Source | Custom agreement | ❌       | ❌                 | ✅         | Done   |
+| FBDL-RO | Read Only           | ✅                | ❌       | ❌                 | ✅        | Todo   |
+| FBDL-RS | Reciprocal Rource   | ✅                | ✅       | ✅ source required | ✅        | Todo   |
+| FBDL-NC | Non Commercial      | Depends          | Depends | Depends           | ❌          | Todo   |
+
 
 This list is subject to changes or improvements. If you want discuss, if you have ideas for other licenses, please open an issue.
 
