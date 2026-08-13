@@ -1,3 +1,7 @@
-# Freeware Binary Distribution Licenses (FBDL)
+# Welcome to the Freeware Binary Distribution Licenses (FBDL)
 
-The **FBDL family** is a collection of software licences inspired by the simplicity of Creative Commons licences while being specifically designed for software. FBDL licences provide clear, standardised ways to distribute proprietary software, ranging from binary-only freeware to source-available and source-access models. Each variant defines a different balance between transparency, redistribution, modification rights, and source-code access, allowing authors and organisations to choose the level of openness that best fits their goals while retaining control of their intellectual property.
+The **FBDL family** is an initiative to create a standard set of software licences inspired by the simplicity and clarity of Creative Commons licences. Its goal is to help software publishers choose a well-defined distribution model without having to draft a custom licence for every project.
+
+FBDL licences cover a range of proprietary software scenarios, from traditional freeware and binary redistribution to source-code access and public-source models. Each licence clearly communicates what users can do with the software and what rights remain reserved by the publisher.
+
+Whether you want to distribute a closed-source utility, provide source-code transparency without allowing forks, or grant confidential source access to customers, the FBDL family aims to provide a clear, consistent, and reusable licensing framework.
