@@ -9,7 +9,7 @@ Whether you want to distribute a closed-source utility, provide source-code tran
 | License | Description                | Source        | Modify   | Redistribute Mods     | Commercial | Status |
 | :------ | :------------------------- | :------------ | :------- | :-------------------- | :--------- | :----- |
 | FBDL    | Freeware                   | No            | No       | No                    | Yes        | Done   |
-| FBDL-SC | Confidential source access | Customer only | Internal | No                    | Yes        | Done   |
+| FBDL-SC | Confidential source access | User only     | Internal | No                    | Yes        | Done   |
 | FBDL-RO | Public source, read only   | Yes           | No       | No                    | Yes        | Todo   |
 | FBDL-NC | Non-commercial             | Optional      | No       | No                    | No         | Todo   |
 | FBDL-SR | Reciprocal source          | Yes           | Yes      | Yes (source required) | Yes        | Todo   |
