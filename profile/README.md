@@ -9,16 +9,22 @@ Whether you want to distribute a closed-source utility, provide source-code tran
 ## Licenses
 
 | License | Description         | Public Source    | Modify  | Derivatives       | Commercial | Status |
-| :------ | :------------------ | :--------------- | :------ | :---------------- | :--------- | :----- |
-| FBDL    | Freeware            | ❌                | ❌       | ❌                 | ✅        | Done   |
-| FBDL-CS | Confidential Source | Custom agreement | ❌       | ❌                 | ✅         | Done   |
-| FBDL-RO | Read Only           | ✅                | ❌       | ❌                 | ✅        | Todo   |
-| FBDL-RS | Reciprocal Rource   | ✅                | ✅       | ✅ source required | ✅        | Todo   |
-| FBDL-NC | Non Commercial      | Depends          | Depends | Depends           | ❌          | Todo   |
+| :------ | :------------------ | :--------------- | :------ | :------------------ | :--------- | :----- |
+| FBDL    | Freeware            | ❌                | ❌      | ❌                  | ✅         | Done   |
+| FBDL-CS | Confidential Source | Custom agreement  | ❌      | ❌                  | ✅         | Done   |
+| FBDL-RO | Read Only           | ✅                | ❌       | ❌                 | ✅         | Todo   |
+| FBDL-RS | Reciprocal Source   | ✅                | ✅       | ✅ source required | ✅         | Todo   |
+| FBDL-NA | Network Access      | Depends          | Depends  | Depends            | ✅         | Todo   |
+| FBDL-NC | Non Commercial      | Depends          | Depends  | Depends            | ❌         | Todo   |
+
 
 ## FAQ
 ### How to use them?
-Start with the FBDL original license and add the other clauses depending on your needs.
+Start with the FBDL original license and add other clauses depending on your needs.
+
+### Do I need to get approval from Legal?
+If you are an individual and you can afford it, do it.
+If you are working in any kind of organisation, your Legal team must always review and approve the license before shipping software, and this also true for the FBDL licenses.
 
 ### Is this a final version?
 Not yes, this is a work in progress, see status in the last column of the table. And "Done" licenses might be subjects to changes based on feedback.If you want discuss, 
