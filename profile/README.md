@@ -15,3 +15,5 @@ Whether you want to distribute a closed-source utility, provide source-code tran
 | FBDL-SR | Reciprocal source          | Yes           | Yes      | Yes (source required) | Yes        | Todo   |
 
 This list is subject to changes or improvements. If you want discuss, if you have ideas for other licenses, please open an issue.
+
+Feedback is welcome.
