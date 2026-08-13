@@ -6,6 +6,8 @@ FBDL licences cover a range of proprietary software scenarios, from traditional 
 
 Whether you want to distribute a closed-source utility, provide source-code transparency without allowing forks, or grant confidential source access to customers, the FBDL family aims to provide a clear, consistent, and reusable licensing framework.
 
+## Licenses
+
 | License | Description         | Public Source    | Modify  | Derivatives       | Commercial | Status |
 | :------ | :------------------ | :--------------- | :------ | :---------------- | :--------- | :----- |
 | FBDL    | Freeware            | ❌                | ❌       | ❌                 | ✅        | Done   |
@@ -14,7 +16,16 @@ Whether you want to distribute a closed-source utility, provide source-code tran
 | FBDL-RS | Reciprocal Rource   | ✅                | ✅       | ✅ source required | ✅        | Todo   |
 | FBDL-NC | Non Commercial      | Depends          | Depends | Depends           | ❌          | Todo   |
 
+## FAQ
+### How to use them?
+Start with the FBDL original license and add the other clauses depending on your needs.
 
-This list is subject to changes or improvements. If you want discuss, if you have ideas for other licenses, please open an issue.
+### Is this a final version?
+Not yes, this is a work in progress, see status in the last column of the table. And "Done" licenses might be subjects to changes based on feedback.If you want discuss, 
 
-Feedback is welcome.
+### How to contribute, comment, or provide ideas and feedback
+Please open an issue in one of the repositories.
+Feedback is welcome, particularly if you have experience with software licenses, copyright and legal compliance.
+
+## How to ask questions and discuss about the licenses?
+Use the discussion feature, visible at the top of the organisation and repositories.
